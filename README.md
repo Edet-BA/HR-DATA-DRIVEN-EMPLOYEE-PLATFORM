@@ -20,7 +20,6 @@ Result
 Recommendation
 
 # Introduction
-1. Introduction (Situation)
 As we know, retaining top talent and optimizing employee performance are critical priorities for any organization. However, 10Alytics current processes face significant challenges:
 
 The company often struggle to identify early signs of employee disengagement or attrition risks.
