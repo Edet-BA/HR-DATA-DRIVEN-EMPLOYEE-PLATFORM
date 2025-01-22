@@ -13,10 +13,15 @@ help HR teams anticipate employee challenges
 and proactively intervene before attrition occurs.
 
 # Table of Content
+
 Introduction
+
 Task
+
 Action
+
 Result
+
 Recommendation
 
 # Introduction
