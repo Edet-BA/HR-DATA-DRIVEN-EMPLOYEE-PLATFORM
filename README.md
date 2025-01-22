@@ -1,6 +1,7 @@
 # HR-DATA-DRIVEN-EMPLOYEE-PLATFORM
 
-![image](https://github.com/user-attachments/assets/b010833c-241e-4c78-98e0-885845669acf)
+![image](https://github.com/user-attachments/assets/8ef1b8aa-0fdd-4a74-b7c4-d61563e623c3)
+
 
 The main objective of this project is to develop a
 Data-Driven Employee Performance and
